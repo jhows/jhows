@@ -19,7 +19,7 @@ Product Manager at [Addebitare Capital S.A.](https://addebitare.com.br)
 - Docker
 - Figma
 - Firebase
-- Flask
+- FastAPI
 - Git
 - Google Cloud Platform
 - Grafana
@@ -27,8 +27,9 @@ Product Manager at [Addebitare Capital S.A.](https://addebitare.com.br)
 - IFTTT
 - Illustrator
 - LLMs
-- MongoDB
 - MacOS
+- MongoDB
+- MQTT
 - MySQL
 - Notion
 - Nginx
