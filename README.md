@@ -15,7 +15,6 @@ Product Manager at [Addebitare Capital S.A.](https://addebitare.com.br)
 - Bash
 - C
 - CSS
-- Discord
 - Docker
 - Figma
 - Firebase
