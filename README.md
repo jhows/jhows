@@ -1,51 +1,34 @@
-### Hello there 👋
+# 👋 Hey, I’m Jhonathan
 
-I’m Jhonathan, a technology enthusiast from São Paulo, Brazil.
+I design systems, automate chaos and bring ideas to life with code, design and strategy.  
+Based in São Paulo, Brazil — working on things that actually matter.
 
-Product Manager at [Addebitare Capital S.A.](https://addebitare.com.br)
+---
 
-- ⚙️ I use daily: `.Python`, `.Docker`, `.MongoDB`, `.GoogleCloud`, `.AWS`, `.Grafana`, `.MetaBase`
-- 🚀 Always learning and exploring new technologies
-- 🎯 Focused on delivering innovative solutions and driving success
+## 🚧 Currently building:
+- **Feat. Soluções** · automation & data to scale business operations  
+- **Syra** · strategy, clarity and growth for bold entrepreneurs  
+- **Sybrain** · launching digital products with structure & precision  
+- **Lyris Lab** · creative studio connecting brands to people  
 
+---
 
-### Languages and Tools:
-- Arduino
-- Asana
-- Bash
-- C
-- CSS
-- Discord
-- Docker
-- Figma
-- Firebase
-- FastAPI
-- Git
-- Google Cloud Platform
-- Grafana
-- HTML
-- IFTTT
-- Illustrator
-- LLMs
-- MacOS
-- MongoDB
-- MQTT
-- MySQL
-- Notion
-- Nginx
-- Pandas
-- Photoshop
-- PostgreSQL
-- Postman
-- Puppeteer
-- Python
-- RabbitMQ
-- Redis
-- Slack
-- SQLite
-- Trello
+## 🧰 My Toolbox:
+`Python`, `Docker`, `FastAPI`, `MongoDB`, `PostgreSQL`, `Google Cloud`, `Redis`, `N8N`, `Figma`, `Metabase`  
++ Automations, dashboards, APIs, bots, crawlers and beautiful chaos control.
 
-### Connect with me:
-<p align="left">
+---
+
+## 🧠 What I do:
+- Build things that automate, acelerate, and simplify  
+- Connect tools, data and people  
+- Prototype fast, test smarter, ship real  
+
+---
+
+## ☕ Let’s connect:
 <a href="https://instagram.com/jhows.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhows.tech" height="30" width="40" /></a>
-</p>
+
+---
+
+> *“Less noise. More flow.”*
