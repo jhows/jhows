@@ -1,34 +1,34 @@
-# 👋 Hey, I’m Jhonathan
+# 👋 Hey, I'm Jhonathan  
 
-I design systems, automate chaos and bring ideas to life with code, design and strategy.  
+I design systems, automate chaos, and bring ideas to life with code, AI, and strategy.  
 Based in São Paulo, Brazil — working on things that actually matter.
 
 ---
 
-## 🚧 Currently building:
+## 🏗️ Currently building:  
 - **Feat. Soluções** · automation & data to scale business operations  
-- **Syra** · strategy, clarity and growth for bold entrepreneurs  
+- **Syra** · strategy, clarity, and growth for bold entrepreneurs  
 - **Sybrain** · launching digital products with structure & precision  
 - **Lyris Lab** · creative studio connecting brands to people  
 
 ---
 
-## 🧰 My Toolbox:
-`Python`, `Docker`, `FastAPI`, `MongoDB`, `PostgreSQL`, `Google Cloud`, `Redis`, `N8N`, `Figma`, `Metabase`  
-+ Automations, dashboards, APIs, bots, crawlers and beautiful chaos control.
+## 🧠 My Toolbox:  
+`LangChain`, `AI Agents`, `AAAS (Agent-as-a-Service)`, `N8N`, `Mongo`, `LLMs`, `Python`, `FastAPI`, `PostgreSQL`, `Redis`, `Google Cloud`, `Docker`, `Figma`, `Metabase`  
+- Automations, AI-driven workflows, APIs, crawlers, dashboards, and adaptive AI solutions.  
 
 ---
 
-## 🧠 What I do:
-- Build things that automate, acelerate, and simplify  
-- Connect tools, data and people  
-- Prototype fast, test smarter, ship real  
+## 🚀 What I do:  
+- Build **AI-powered agents** that automate, analyze, and optimize  
+- Connect **LLMs** and **AI workflows** to real-world business solutions  
+- Prototype fast, refine smarter, and deploy systems that **just work**  
 
 ---
 
-## ☕ Let’s connect:
-<a href="https://instagram.com/jhows.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhows.tech" height="30" width="40" /></a>
+## ☕ Let’s connect:  
+<a href="https://instagram.com/jhows.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhows.tech" height="30" width="40" /></a>  
 
 ---
 
-> *“Less noise. More flow.”*
+> *"Build. Automate. Scale. Repeat."*
